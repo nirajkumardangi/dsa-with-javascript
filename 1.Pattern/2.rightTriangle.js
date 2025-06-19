@@ -1,6 +1,7 @@
 /**
- * Triangle Star Pattern
+ * Right Angle Triangle Star Pattern
  * for n = 5
+ * 
  *    *
  *    * *
  *    * * *
