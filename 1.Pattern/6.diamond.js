@@ -1,3 +1,18 @@
+/**
+ *    Diamond Star Pattern - for n = 5
+ *
+ *        *
+ *       * *
+ *      * * *
+ *     * * * *
+ *    * * * * *
+ *     * * * *
+ *      * * *
+ *       * *
+ *        *
+ *
+ */
+
 function printDiamondPattern(n) {
   // Upper part
   for (let row = 1; row <= n; row++) {
