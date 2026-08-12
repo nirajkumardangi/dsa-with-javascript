@@ -8,5 +8,5 @@ function findLargest(arr) {
   return largest;
 }
 
-const result = findLargest([-20, -10, -40]);
+const result = findLargest([20, 10, 40, 50, 80, 30]);
 console.log(result); // 80
